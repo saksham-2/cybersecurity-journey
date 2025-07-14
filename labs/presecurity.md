@@ -15,7 +15,7 @@ Think like an attacker to secure systems better.
 
 Always document findings so they can be fixed.
 
-![first command ](assets/presecurity.png)
+![first command](../assets/presecurity.png)
 
 
 ✅ Defensive Security Intro
