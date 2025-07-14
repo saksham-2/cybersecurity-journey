@@ -15,6 +15,9 @@ Think like an attacker to secure systems better.
 
 Always document findings so they can be fixed.
 
+![first command](../assets/presecurity.png)
+
+
 ✅ Defensive Security Intro
 What it is: Strategies & tools to detect, prevent, and respond to attacks.
 
