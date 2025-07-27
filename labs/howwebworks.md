@@ -126,7 +126,7 @@ DNS translates human-readable domain names into IP addresses.
 - HTTP in Detail
 
 **Badges:**  
-![How Websites Work Badge](../assets/webworks_badge.png)  
-![HTTP Badge](../assets/http_badge.png)
+![How Websites Work Badge](../assets/webworks badge.png)  
+![HTTP Badge](../assets/http badge.png)
 
 ---
